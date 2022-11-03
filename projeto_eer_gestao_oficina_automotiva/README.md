@@ -4,8 +4,6 @@ Este repositorio contempla o EER de um Sistema de Gestao Oficina Automotiva.
 Descrição do Desafio
 Agora você irá criar um esquema conceitual do zero. A partir da narrativa fornecida você será capaz de criar todas as entidades, relacionamentos e atributos. Caso encontre algo que não foi definido na narrativa, utilize a sua compreensão do contexto e deixe uma descrição no README do seu github. para verificação.
 
-O esquema deverá ser adicionado a um repositório do Github para futura avaliação do desafio de projeto. Adicione ao Readme a descrição do projeto conceitual para fornecer o contexto sobre seu esquema.
-
 Objetivo:
 Cria o esquema conceitual para o contexto de oficina com base na narrativa fornecida
 
@@ -24,16 +22,16 @@ Narrativa: Funcionarios
 Os mecanicos sao especializados e atendem as os de acordo com a sua especialidade
 
 Narrativa: Ordem de Servico (OS)
-As OS indentifica o veiculo, o proprietario, o tipo de servico a executar e a equipe de técnicos
+- As OS indentifica o veiculo, o proprietario, o tipo de servico a executar e a equipe de técnicos
 
 Narrativa: Tabela de Servicos
-Registra os valores de Mao de Obra por tipo de servico
+- Registra os valores de Mao de Obra por tipo de servico
 
 Narrativa: Tabela de Pecas
-Registra os tipos de pecas e se valor
+- Registra os tipos de pecas e se valor
 
 Narrativa: Cadastro de Cliente
-Registra os dados do cliente, como Nome, endereco, telefone
+- Registra os dados do cliente, como Nome, endereco, telefone
 
 
 Ferramenta:
