@@ -8,6 +8,7 @@
 - Inserir os dados na tabela
 - Realizar pesquisa na tabela AWS CLI
 
+
 Informações consultadas:
 - Aulas do Modulo AWS (Bootcamp DIO)
 - Scripts e arquivos disponibilizado pelo professor Cassiano Peres.
