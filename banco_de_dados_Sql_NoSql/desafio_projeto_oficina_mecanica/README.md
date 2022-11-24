@@ -1,5 +1,5 @@
 # Modulo: Banco de Dados SQL e NoSQL
-# Desafio de projeto: Construindo seu primeiro projeto logico de Banco de Dados
+# Desafio de projeto: Construindo um Projeto Logico de Banco de Dados do Zero
 
 # Descricao do Desafio:
 Desenvolver um projeto de Banco de Dados para Oficina Mecanica.
