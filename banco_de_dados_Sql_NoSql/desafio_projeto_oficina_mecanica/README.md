@@ -14,7 +14,7 @@ Criar queries SQL com as clausulas abaixo:
 - Condicoes de filtros aos grupos – HAVING Statement,
 - Crie juncoes entre tabelas para fornecer uma perspectiva mais complexa dos dados;
 
-# Modelo de 
+# Modelo de Oficina Mecanica
 - Ordem de Servico:
 A  ordem de servico (OS) devera conter o Numero da OS, a data de Emissao,
 A equipe tecnica(Mecanicos) informa o tipo de servico( revisao periodica ou manutencao corretiva) e a data de conclusao do servico,
